@@ -22,7 +22,7 @@ public class WebServer {
 	 * URL uses the logical name of account-service - upper or lower case,
 	 * doesn't matter.
 	 */
-	public static final String ACCOUNTS_SERVICE_URL = "http://localhost:2222";
+	public static final String ACCOUNTS_SERVICE_URL = "http://accounts-service:2222";
 
 	/**
 	 * Run the application using Spring Boot and an embedded servlet engine.
